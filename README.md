@@ -18,11 +18,27 @@ A guessing game where the user tries to guess a hidden number. After each guess,
 
 ---
 
+## 📸 Output Screenshot
+
+Here's the sample output of the hardcoded number guessing program:
+
+![Hardcoded Guessing](images/hardcoded_guessing.png)
+
+---
+
 ## 🎲 Version 2: Random Number
 
 - The computer randomly picks a number between 1 and 100 using the `random` module.
 - The user keeps guessing until they find the correct number.
 - More dynamic and realistic!
+
+---
+
+## 📸 Output Screenshot
+
+Here's the sample output of the random number guessing  program:
+
+![Random Guessing](images/random_guessing.png)
 
 ---
 
@@ -45,17 +61,8 @@ Then open your terminal or command prompt and run:
 python guess_fixed.py
 ```
 
-## 📸 Output Screenshot
-
-Here's the sample output of the optimized bubble sort program:
-
-![Hardcoded Guessing](images/hardcoded_guessing.png)
-
 ---
 
-![Random Guessing](images/random_guessing.png)
-
----
 ## 👩‍💻 Author
 
 Made with 💙 by **Adiba Rahman**  
